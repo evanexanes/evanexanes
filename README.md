@@ -9,6 +9,10 @@ I build business websites that stay fast and get found.
 [![CV](https://img.shields.io/badge/CV-PDF-555555?style=for-the-badge)](https://evanexanes.github.io/assets/Evan_Exanes_CV.pdf)
 [![Contact](https://img.shields.io/badge/Contact-form%20or%20call-555555?style=for-the-badge)](https://evanexanes.github.io/07-contact.html)
 
+<img src="docs/screenshot.webp" alt="The home page of the portfolio at evanexanes.github.io" width="860">
+
+<sub>The portfolio: evanexanes.github.io</sub>
+
 </div>
 
 ## What I do
